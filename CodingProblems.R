@@ -1,3 +1,7 @@
+##Some examples of coding problems and solving it using R
+
+##Leetcode stuff
+
 t<-function(a){
    n<-length(a)
   xc <-c()
